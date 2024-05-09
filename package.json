@@ -1,0 +1,14 @@
+{
+  "name": "course_materials",
+  "version": "1.0.0",
+  "description": "this is for the course materials and all the topics its has",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive" 
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
